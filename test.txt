@@ -1,2 +1,3 @@
-This is a simple text file for testing git
+This is a simple text  testing git
 i am in avhi branch
+again changes in avhi branch
