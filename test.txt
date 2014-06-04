@@ -1,5 +1,5 @@
 This is a simple text  testing git
 i am in avhi branch
-again changes in avhi branch previously
+again in avhi branch previously
 changes for merging
 edit in github
