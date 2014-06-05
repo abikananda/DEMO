@@ -1,5 +1,6 @@
 This is a simple text  testing git
 i am in avhi branch
-again in avhi branch previously
+again in avhi branch avhi2 branch
 changes for merging
 edit in github
+update
